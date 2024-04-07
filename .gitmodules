@@ -1,0 +1,6 @@
+[submodule "obowiazkoweSubmodule"]
+	path = obowiazkoweSubmodule
+	url = https://github.com/KTaraszkiewicz/obowiazkowe.git
+[submodule "nieobowiazkoweSubmodule"]
+	path = nieobowiazkoweSubmodule
+	url = https://github.com/KTaraszkiewicz/nieobowiazkowe.git
